@@ -25,4 +25,4 @@ We do not sell, rent, trade, or share any user or community data with third part
 Community administrators can stop all data processing at any time by removing Insomnia from their community under **Community Settings > Apps**.
 
 ## 6. Changes and Contact
-We may update this Privacy Policy as new features are added to the Bot. If you have questions or concerns, please open an issue on our [GitHub Repository](https://github.com/YOUR_USERNAME/YOUR_REPO) or contact the developer at `YOUR_EMAIL_OR_ROOT_HANDLE`.
+We may update this Privacy Policy as new features are added to the Bot. If you have questions or concerns, please open an issue on our [GitHub Repository](https://github.com/YOUR_USERNAME/YOUR_REPO).
