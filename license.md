@@ -28,4 +28,4 @@ We do not sell, rent, trade, or share any user messages, identifiers, or communi
 - **Full Removal:** Community administrators can stop all data processing at any time by removing Insomnia under **Community Settings > Apps**.
 
 ## 6. Changes and Contact
-We may update this Privacy Policy as new features are added to the Bot. If you have questions or would like your stored user ID preference deleted, please open an issue on our [GitHub Repository](https://github.com/YOUR_USERNAME/YOUR_REPO).
+We may update this Privacy Policy as new features are added to the Bot. If you have questions or would like your stored user ID preference deleted, please open an issue on our [GitHub Repository](https://github.com/MinosUwu/Privacy).
